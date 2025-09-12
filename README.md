@@ -64,7 +64,7 @@
 
 ## 📬 Как со мной связаться
 
-- 📧 [poshlivy@yandex.ru](https://mail.yandex.ru/?addr=poshlivy@yandex.ru)
+- 📧 [poshlivy@yandex.ru](https://mail.yandex.ru/compose?to=poshlivy@yandex.ru)
 - 💬 Telegram: [@omyyomyyy](https://t.me/omyyomyyy)
 
 > 💬 Если тебе нужен разработчик, который:
