@@ -65,3 +65,8 @@
 > - Пишет рабочий код, даже если не идеальный
 > - Готов учиться и расти
 > — **напиши мне**. Я отвечу.
+
+## 📊 GitHub Stats
+
+![Omasy4S's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omasy4S&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omasy4S&layout=compact&theme=radical&hide_border=true)
